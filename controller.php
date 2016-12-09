@@ -1,5 +1,5 @@
 <?php
 
 echo " Controller ";
-echo "TEST2";
+echo "TEST1";
 echo "PHP";
